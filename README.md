@@ -50,3 +50,9 @@ systems above were identified in the source; a fresh editor import, playthrough
 and platform build have not been verified during this publication pass. See
 [verification notes](docs/PORTFOLIO_VALIDATION.md). No performance or
 release-readiness claims are made.
+
+---
+
+## License
+
+MIT - see [LICENSE](LICENSE). You may use, modify and redistribute this code with attribution.
