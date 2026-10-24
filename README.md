@@ -10,6 +10,10 @@ classroom content is the gameplay, not a menu bolted onto one.
 | **Language** | C# (runtime + editor tooling) |
 | **Scope** | Educational gameplay prototype |
 | **Status** | Development prototype, not a released game |
+| **Live demo** | Unity project — no hosted demo |
+| **Screenshots** | Pending — see [docs/CAPTURE_GUIDE.md](docs/CAPTURE_GUIDE.md) |
+| **Stack** | Unity · C# |
+| **License** | MIT — [LICENSE](LICENSE) |
 
 ## What it demonstrates
 
@@ -52,6 +56,12 @@ and platform build have not been verified during this publication pass. See
 release-readiness claims are made.
 
 ---
+
+## What I would do next
+
+- Record a short gameplay clip and the classroom activity screens following the capture guide.
+- Add a playtest section with what students actually completed and where they got stuck.
+- Extract the circuit simulator into a reusable component package.
 
 ## License
 
